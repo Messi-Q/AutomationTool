@@ -1,6 +1,6 @@
 # Automation Tool
 
-This is the automation tools for generating code gadgets and graphs from programs automatically.
+This is the automation tool for generating code gadgets and graphs from programs automatically.
 Currently the tool is limited to the solidity program. In future research, we will make the tool suitable for more programming languages, including C/C++, java, etc.
 It is worth mentioning that our work is mainly aimed at the analysis of smart contracts, include [Ethereum](https://etherscan.io/) solidity and [VNT](http://www.vntchain.io/) C/C++.
 
